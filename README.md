@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Foram resolvidos quatro problemas retirados do site [LeetCode](leetcode.com).
+Foram resolvidos quatro problemas retirados do site [LeetCode](https://leetcode.com).
 
 1. [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/). Cheapest Flights Within K Stops
 2. [210](https://leetcode.com/problems/course-schedule-ii/description/). Course Schedule II
