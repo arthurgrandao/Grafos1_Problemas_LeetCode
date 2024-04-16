@@ -45,8 +45,8 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Caso queira rodar as soluções, basta colar no leet code ou fazer casos de teste 
 
-## Outros
+## Vídeo
 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+[Link](https://youtu.be/uu_lpMuj6HY)
