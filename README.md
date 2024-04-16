@@ -37,16 +37,10 @@ Foram resolvidos quatro problemas retirados do site [LeetCode](https://leetcode.
   
 ![image](./images/1782.png)
 
-## Instalação
-
-**Linguagem**: C++<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
 ## Uso
 
-Caso queira rodar as soluções, basta colar no leet code ou fazer casos de teste 
+Caso queira rodar as soluções, basta colar o código no LeetCode ou criar casos casos de teste na main do arquivo. 
 
 ## Vídeo
 
-[Link](https://youtu.be/uu_lpMuj6HY)
+[Link para a apresentação](https://youtu.be/uu_lpMuj6HY)
