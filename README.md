@@ -15,9 +15,9 @@
 Foram resolvidos quatro problemas retirados do site [LeetCode](leetcode.com).
 
 1. [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/). Cheapest Flights Within K Stops
-2. []().
+2. [210](https://leetcode.com/problems/course-schedule-ii/description/). Course Schedule II
 3. [1377](https://leetcode.com/problems/frog-position-after-t-seconds/description/). Frog Position After T Seconds
-4. []().
+4. [1782](https://leetcode.com/problems/count-pairs-of-nodes/description/). Count Pairs Of Nodes
 
 ## Screenshots
 
